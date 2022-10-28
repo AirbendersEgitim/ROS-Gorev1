@@ -4,4 +4,4 @@ Bu görevde sizden bir publisher ve bir subscriber kullanarak iki açısı veril
 ## Açıklama
 İçerisinde iki adet tam sayı (iki açı değeri) içeren bir .msg uzantılı dosya oluşturup daha sonra kullanıcıdan gelen iki açı değeriyle bir mesaj oluşturup bu mesajı publisher aracılığıyla yayınlamanız ve subscriber aracılığıyla yakalayıp içerisindeki açı değerlerini kullanarak üçüncü açıyı yazdırmanız gerekmektedir.
 ## Örnek
-<img src="https://github.com/omersafakbebek/gorev/blob/master/Ornek.gif" width=75% height=75%>
+<img src="https://github.com/AirbendersEgitim/ROS-Gorev1/blob/main/Ornek.gif" width=75% height=75%>
